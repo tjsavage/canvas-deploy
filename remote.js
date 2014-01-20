@@ -1,8 +1,6 @@
 var control = require('control'),
 	task = control.task;
 
-var config = require('./config.json');
-
 function configure(hostname, address, sshPort) {
 	var controller = Object.create(control.controller);
 
@@ -11,9 +9,9 @@ function configure(hostname, address, sshPort) {
 	controller.scpOptions = ['-P ' + sshPort, '-r'];
 	controller.address = address;
 	controller.localDir = "./" + hostname;
-	controller.remoteDir = "/home/pi/easel";
+	controller.remoteDir = "/home/pi/canvas";
 	controller.hostname = hostname;
-	controller.config = config.machines[hostname];
+	controller.config = require("./config." + hostname + ".json");
 
 	return [controller];
 }
@@ -31,9 +29,13 @@ task('pablo-eth', 'Config for pablo over ethernet', function() {
 });
 
 task('deploy', 'Deploy a machine', function(controller) {
-	controller.ssh("cd /home/pi/canvas/canvas-client && git pull origin master && npm install", function() {
-		controller.scp("./config." + controller.hostname + ".json", "/home/pi/canvas/config.json", function() {
-			controller.ssh("/etc/init.d/nodejs.sh restart");
+	controller.ssh("cd /home/pi/canvas/canvas-deploy && git pull origin master && npm install", function() {
+		controller.ssh("cd /home/pi/canvas/canvas-client && git pull origin master && npm install", function() {
+			controller.ssh("cd /home/pi/canvas/canvas-server && git pull origin master && npm install", function() {
+				controller.scp("./config." + controller.hostname + ".json", "/home/pi/canvas/canvas-deploy/config.json", function() {
+					controller.ssh("/etc/init.d/nodejs.sh restart");
+				});
+			});
 		});
 	});
 });
