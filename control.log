@@ -2546,3 +2546,819 @@
 20140120150337:taylorsavage.com:stderr: npm http 200 https://registry.npmjs.org/sntp
 20140120150338:taylorsavage.com:stderr: npm http 200
 20140120150338:taylorsavage.com:stderr:  https://registry.npmjs.org/hoek
+20140120150405:taylorsavage.com:stderr: npm http GET https://registry.npmjs.org/qs/0.6.5
+20140120150405:taylorsavage.com:stderr: npm 
+20140120150405:taylorsavage.com:stderr: http
+20140120150405:taylorsavage.com:stderr:  
+20140120150405:taylorsavage.com:stderr: GET https://registry.npmjs.org/negotiator/0.3.0
+20140120150405:taylorsavage.com:stderr: npm http GET https://registry.npmjs.org/multiparty/2.2.0
+20140120150411:taylorsavage.com:stderr: npm
+20140120150411:taylorsavage.com:stderr:  http GET https://registry.npmjs.org/methods/0.0.1
+20140120150411:taylorsavage.com:stderr: npm http 
+20140120150411:taylorsavage.com:stderr: GET https://registry.npmjs.org/pause/0.0.1
+20140120150411:taylorsavage.com:stderr: npm http GET https://registry.npmjs.org/bytes/0.2.1
+20140120150411:taylorsavage.com:stderr: npm http GET https://registry.npmjs.org/raw-body/0.0.3
+20140120150412:taylorsavage.com:stderr: npm
+20140120150412:taylorsavage.com:stderr:  http 200 https://registry.npmjs.org/methods/0.0.1
+20140120150412:taylorsavage.com:stderr: npm http 
+20140120150412:taylorsavage.com:stderr: 200 https://registry.npmjs.org/qs/0.6.5
+20140120150412:taylorsavage.com:stderr: npm http 200 https://registry.npmjs.org/bytes/0.2.1
+20140120150412:taylorsavage.com:stderr: npm http 200 https://registry.npmjs.org/pause/0.0.1
+20140120150412:taylorsavage.com:stderr: npm http 200 https://registry.npmjs.org/multiparty/2.2.0
+20140120150412:taylorsavage.com:stderr: npm http 200 https://registry.npmjs.org/raw-body/0.0.3
+20140120150412:taylorsavage.com:stderr: npm http 200 https://registry.npmjs.org/negotiator/0.3.0
+20140120150413:taylorsavage.com:stderr: npm 
+20140120150413:taylorsavage.com:stderr: http GET
+20140120150413:taylorsavage.com:stderr:  https://registry.npmjs.org/uid2/0.0.3
+20140120150413:taylorsavage.com:stderr: npm http 
+20140120150413:taylorsavage.com:stderr: 200 https://registry.npmjs.org/uid2/0.0.3
+20140120150416:taylorsavage.com:stderr: npm
+20140120150416:taylorsavage.com:stderr:  http GET https://registry.npmjs.org/methods/-/methods-0.0.1.tgz
+20140120150416:taylorsavage.com:stderr: npm
+20140120150416:taylorsavage.com:stderr:  
+20140120150416:taylorsavage.com:stderr: http
+20140120150416:taylorsavage.com:stderr:  
+20140120150416:taylorsavage.com:stderr: GET https://registry.npmjs.org/qs/-/qs-0.6.5.tgz
+20140120150416:taylorsavage.com:stderr: npm
+20140120150416:taylorsavage.com:stderr:  
+20140120150416:taylorsavage.com:stderr: http 
+20140120150416:taylorsavage.com:stderr: GET
+20140120150416:taylorsavage.com:stderr:  https://registry.npmjs.org/bytes/-/bytes-0.2.1.tgz
+20140120150416:taylorsavage.com:stderr: npm
+20140120150416:taylorsavage.com:stderr:  
+20140120150416:taylorsavage.com:stderr: http
+20140120150416:taylorsavage.com:stderr:  
+20140120150416:taylorsavage.com:stderr: GET
+20140120150416:taylorsavage.com:stderr:  https://registry.npmjs.org/pause/-/pause-0.0.1.tgz
+20140120150416:taylorsavage.com:stderr: npm
+20140120150416:taylorsavage.com:stderr:  
+20140120150416:taylorsavage.com:stderr: http
+20140120150416:taylorsavage.com:stderr:  
+20140120150416:taylorsavage.com:stderr: GET
+20140120150416:taylorsavage.com:stderr:  https://registry.npmjs.org/multiparty/-/multiparty-2.2.0.tgz
+20140120150416:taylorsavage.com:stderr: npm
+20140120150416:taylorsavage.com:stderr:  
+20140120150416:taylorsavage.com:stderr: http
+20140120150416:taylorsavage.com:stderr:  
+20140120150416:taylorsavage.com:stderr: GET https://registry.npmjs.org/negotiator/-/negotiator-0.3.0.tgz
+20140120150416:taylorsavage.com:stderr: npm 
+20140120150416:taylorsavage.com:stderr: http
+20140120150416:taylorsavage.com:stderr:  
+20140120150416:taylorsavage.com:stderr: GET
+20140120150416:taylorsavage.com:stderr:  https://registry.npmjs.org/raw-body/-/raw-body-0.0.3.tgz
+20140120150416:taylorsavage.com:stderr: npm
+20140120150416:taylorsavage.com:stderr:  
+20140120150416:taylorsavage.com:stderr: http
+20140120150416:taylorsavage.com:stderr:  
+20140120150416:taylorsavage.com:stderr: GET
+20140120150416:taylorsavage.com:stderr:  https://registry.npmjs.org/uid2/-/uid2-0.0.3.tgz
+20140120150417:taylorsavage.com:stderr: npm 
+20140120150417:taylorsavage.com:stderr: http 200
+20140120150417:taylorsavage.com:stderr:  https://registry.npmjs.org/multiparty/-/multiparty-2.2.0.tgz
+20140120150417:taylorsavage.com:stderr: npm http 
+20140120150417:taylorsavage.com:stderr: 200 https://registry.npmjs.org/bytes/-/bytes-0.2.1.tgz
+20140120150417:taylorsavage.com:stderr: npm http 200 https://registry.npmjs.org/pause/-/pause-0.0.1.tgz
+20140120150417:taylorsavage.com:stderr: npm
+20140120150417:taylorsavage.com:stderr:  
+20140120150417:taylorsavage.com:stderr: http
+20140120150417:taylorsavage.com:stderr:  200
+20140120150417:taylorsavage.com:stderr:  https://registry.npmjs.org/qs/-/qs-0.6.5.tgz
+20140120150417:taylorsavage.com:stderr: npm
+20140120150417:taylorsavage.com:stderr:  http
+20140120150417:taylorsavage.com:stderr:  
+20140120150417:taylorsavage.com:stderr: 200
+20140120150417:taylorsavage.com:stderr:  https://registry.npmjs.org/negotiator/-/negotiator-0.3.0.tgz
+20140120150417:taylorsavage.com:stderr: npm
+20140120150417:taylorsavage.com:stderr:  
+20140120150417:taylorsavage.com:stderr: http
+20140120150417:taylorsavage.com:stderr:  
+20140120150417:taylorsavage.com:stderr: 200
+20140120150417:taylorsavage.com:stderr:  https://registry.npmjs.org/methods/-/methods-0.0.1.tgz
+20140120150417:taylorsavage.com:stderr: npm
+20140120150417:taylorsavage.com:stderr:  
+20140120150417:taylorsavage.com:stderr: http
+20140120150417:taylorsavage.com:stderr:  
+20140120150417:taylorsavage.com:stderr: 200
+20140120150417:taylorsavage.com:stderr:  https://registry.npmjs.org/raw-body/-/raw-body-0.0.3.tgz
+20140120150417:taylorsavage.com:stderr: npm
+20140120150417:taylorsavage.com:stderr:  
+20140120150417:taylorsavage.com:stderr: http
+20140120150417:taylorsavage.com:stderr:  
+20140120150417:taylorsavage.com:stderr: 200
+20140120150417:taylorsavage.com:stderr:  https://registry.npmjs.org/uid2/-/uid2-0.0.3.tgz
+20140120150419:taylorsavage.com:stderr: npm
+20140120150419:taylorsavage.com:stderr:  WARN 
+20140120150419:taylorsavage.com:stderr: package.json methods@0.0.1 No README.md file found!
+20140120150420:taylorsavage.com:stderr: npm 
+20140120150420:taylorsavage.com:stderr: WARN package.json uid2@0.0.3 No README.md file found!
+20140120150435:taylorsavage.com:pi:ssh: cd /home/pi/canvas/canvas-deploy && git pull origin master && npm install
+20140120150436:taylorsavage.com:stderr: npm 
+20140120150436:taylorsavage.com:stderr: http
+20140120150436:taylorsavage.com:stderr:  
+20140120150436:taylorsavage.com:stderr: GET https://registry.npmjs.org/uglify-js/1.2.5
+20140120150436:taylorsavage.com:stderr: npm
+20140120150436:taylorsavage.com:stderr:  
+20140120150436:taylorsavage.com:stderr: http 
+20140120150436:taylorsavage.com:stderr: GET https://registry.npmjs.org/ws
+20140120150436:taylorsavage.com:stderr: npm
+20140120150436:taylorsavage.com:stderr:  
+20140120150436:taylorsavage.com:stderr: http
+20140120150436:taylorsavage.com:stderr:  
+20140120150436:taylorsavage.com:stderr: GET
+20140120150436:taylorsavage.com:stderr:  https://registry.npmjs.org/xmlhttprequest/1.4.2
+20140120150436:taylorsavage.com:stderr: npm
+20140120150436:taylorsavage.com:stderr:  
+20140120150436:taylorsavage.com:stderr: http
+20140120150436:taylorsavage.com:stderr:  
+20140120150436:taylorsavage.com:stderr: GET https://registry.npmjs.org/active-x-obfuscator/0.0.1
+20140120150437:taylorsavage.com:stderr: npm 
+20140120150437:taylorsavage.com:stderr: http 200 https://registry.npmjs.org/uglify-js/1.2.5
+20140120150437:taylorsavage.com:stderr: npm 
+20140120150437:taylorsavage.com:stderr: http 200 https://registry.npmjs.org/active-x-obfuscator/0.0.1
+20140120150437:taylorsavage.com:stderr: npm http 200 https://registry.npmjs.org/xmlhttprequest/1.4.2
+20140120150438:taylorsavage.com:stderr: npm http 200 https://registry.npmjs.org/ws
+20140120150438:taylorsavage.com:stderr: From github.com:tjsavage/canvas-deploy
+20140120150438:taylorsavage.com:stderr:  * branch            master     -> FETCH_HEAD
+20140120150438:taylorsavage.com:stdout: Updating 7ffe84f..f04afcd
+20140120150438:taylorsavage.com:stdout: Fast-forward
+20140120150438:taylorsavage.com:stdout:  .gitignore             |    1 +
+20140120150438:taylorsavage.com:stdout:  control.log            | 2548 ++++++++++++++++++++++++++++++++++++++++++++++++
+20140120150438:taylorsavage.com:stdout:  canvas.js => remote.js |   16 +-
+20140120150438:taylorsavage.com:stdout:  start.js               |   17 +
+20140120150438:taylorsavage.com:stdout:  4 files changed, 2575 insertions(+), 7 deletions(-)
+20140120150438:taylorsavage.com:stdout:  create mode 100644 control.log
+20140120150438:taylorsavage.com:stdout:  rename canvas.js => remote.js (59%)
+20140120150438:taylorsavage.com:stdout:  create mode 100644 start.js
+20140120150439:taylorsavage.com:stderr: npm
+20140120150439:taylorsavage.com:stderr:  
+20140120150439:taylorsavage.com:stderr: http GET
+20140120150439:taylorsavage.com:stderr:  https://registry.npmjs.org/uglify-js/-/uglify-js-1.2.5.tgz
+20140120150439:taylorsavage.com:stderr: npm http
+20140120150439:taylorsavage.com:stderr:  GET https://registry.npmjs.org/active-x-obfuscator/-/active-x-obfuscator-0.0.1.tgz
+20140120150439:taylorsavage.com:stderr: npm http GET https://registry.npmjs.org/xmlhttprequest/-/xmlhttprequest-1.4.2.tgz
+20140120150440:taylorsavage.com:stderr: npm
+20140120150440:taylorsavage.com:stderr:  http 200 https://registry.npmjs.org/active-x-obfuscator/-/active-x-obfuscator-0.0.1.tgz
+20140120150440:taylorsavage.com:stderr: npm http 
+20140120150440:taylorsavage.com:stderr: 200 https://registry.npmjs.org/uglify-js/-/uglify-js-1.2.5.tgz
+20140120150440:taylorsavage.com:stderr: npm http 200 https://registry.npmjs.org/xmlhttprequest/-/xmlhttprequest-1.4.2.tgz
+20140120150444:taylorsavage.com:stderr: npm
+20140120150444:taylorsavage.com:stderr:  WARN package.json canvas-deploy@0.0.1 No README.md file found!
+20140120150444:taylorsavage.com:exit: 0
+20140120150444:taylorsavage.com:pi:ssh: cd /home/pi/canvas/canvas-client && git pull origin master && npm install
+20140120150447:taylorsavage.com:stderr: From github.com:tjsavage/canvas-client
+20140120150447:taylorsavage.com:stderr:  * branch            master     -> FETCH_HEAD
+20140120150447:taylorsavage.com:stdout: Updating 71ce9e5..cc7fd9b
+20140120150447:taylorsavage.com:stdout: Fast-forward
+20140120150447:taylorsavage.com:stdout:  app.js                           |    1 +
+20140120150447:taylorsavage.com:stdout:  client.js                        |    3 +-
+20140120150447:taylorsavage.com:stdout:  config.example.json              |    7 +-
+20140120150447:taylorsavage.com:stdout:  modules/clock/index.js           |   18 +
+20140120150447:taylorsavage.com:stdout:  modules/doorbell/index.js        |   58 +
+20140120150447:taylorsavage.com:stdout:  modules/motion_detector/index.js |   29 +
+20140120150447:taylorsavage.com:stdout:  npm-debug.log                    | 6268 ++++++++++++++++----------------------
+20140120150447:taylorsavage.com:stdout:  package.json                     |    3 +-
+20140120150447:taylorsavage.com:stdout:  test.js                          |   58 +-
+20140120150447:taylorsavage.com:stdout:  9 files changed, 2814 insertions(+), 3631 deletions(-)
+20140120150447:taylorsavage.com:stdout:  create mode 100644 modules/clock/index.js
+20140120150447:taylorsavage.com:stdout:  create mode 100644 modules/doorbell/index.js
+20140120150447:taylorsavage.com:stdout:  create mode 100644 modules/motion_detector/index.js
+20140120150453:taylorsavage.com:stderr: npm
+20140120150453:taylorsavage.com:stderr:  
+20140120150453:taylorsavage.com:stderr: WARN package.json canvas-client@0.0.1 No README.md file found!
+20140120150454:taylorsavage.com:stderr: npm
+20140120150454:taylorsavage.com:stderr:  
+20140120150454:taylorsavage.com:stderr: http
+20140120150454:taylorsavage.com:stderr:  
+20140120150454:taylorsavage.com:stderr: GET
+20140120150454:taylorsavage.com:stderr:  https://registry.npmjs.org/request
+20140120150454:taylorsavage.com:stderr: npm
+20140120150454:taylorsavage.com:stderr:  http 304 https://registry.npmjs.org/request
+20140120150455:taylorsavage.com:stderr: npm
+20140120150455:taylorsavage.com:stderr:  
+20140120150455:taylorsavage.com:stderr: http
+20140120150455:taylorsavage.com:stderr:  
+20140120150455:taylorsavage.com:stderr: GET
+20140120150455:taylorsavage.com:stderr:  https://registry.npmjs.org/request/-/request-2.33.0.tgz
+20140120150456:taylorsavage.com:stderr: npm
+20140120150456:taylorsavage.com:stderr:  http 200 https://registry.npmjs.org/request/-/request-2.33.0.tgz
+20140120150500:taylorsavage.com:stderr: npm 
+20140120150500:taylorsavage.com:stderr: http 
+20140120150500:taylorsavage.com:stderr: GET https://registry.npmjs.org/mime
+20140120150500:taylorsavage.com:stderr: npm
+20140120150500:taylorsavage.com:stderr:  
+20140120150500:taylorsavage.com:stderr: http
+20140120150500:taylorsavage.com:stderr:  
+20140120150500:taylorsavage.com:stderr: GET
+20140120150500:taylorsavage.com:stderr:  https://registry.npmjs.org/http-signature
+20140120150500:taylorsavage.com:stderr: npm
+20140120150500:taylorsavage.com:stderr:  
+20140120150500:taylorsavage.com:stderr: http
+20140120150500:taylorsavage.com:stderr:  
+20140120150500:taylorsavage.com:stderr: GET
+20140120150500:taylorsavage.com:stderr:  https://registry.npmjs.org/oauth-sign
+20140120150500:taylorsavage.com:stderr: npm
+20140120150500:taylorsavage.com:stderr:  
+20140120150500:taylorsavage.com:stderr: http
+20140120150500:taylorsavage.com:stderr:  
+20140120150500:taylorsavage.com:stderr: GET
+20140120150500:taylorsavage.com:stderr:  https://registry.npmjs.org/form-data
+20140120150500:taylorsavage.com:stderr: npm
+20140120150500:taylorsavage.com:stderr:  
+20140120150500:taylorsavage.com:stderr: http
+20140120150500:taylorsavage.com:stderr:  
+20140120150500:taylorsavage.com:stderr: GET
+20140120150500:taylorsavage.com:stderr:  https://registry.npmjs.org/tough-cookie
+20140120150501:taylorsavage.com:stderr: npm
+20140120150501:taylorsavage.com:stderr:  http GET https://registry.npmjs.org/hawk
+20140120150501:taylorsavage.com:stderr: npm
+20140120150501:taylorsavage.com:stderr:  http GET https://registry.npmjs.org/aws-sign2
+20140120150501:taylorsavage.com:stderr: npm http GET https://registry.npmjs.org/tunnel-agent
+20140120150501:taylorsavage.com:stderr: npm http GET https://registry.npmjs.org/qs
+20140120150501:taylorsavage.com:stderr: npm http GET https://registry.npmjs.org/json-stringify-safe
+20140120150501:taylorsavage.com:stderr: npm http 
+20140120150501:taylorsavage.com:stderr: GET https://registry.npmjs.org/forever-agent
+20140120150501:taylorsavage.com:stderr: npm http GET https://registry.npmjs.org/node-uuid
+20140120150501:taylorsavage.com:stderr: npm
+20140120150501:taylorsavage.com:stderr:  
+20140120150501:taylorsavage.com:stderr: http
+20140120150501:taylorsavage.com:stderr:  
+20140120150501:taylorsavage.com:stderr: 304
+20140120150501:taylorsavage.com:stderr:  https://registry.npmjs.org/oauth-sign
+20140120150501:taylorsavage.com:stderr: npm
+20140120150501:taylorsavage.com:stderr:  
+20140120150501:taylorsavage.com:stderr: http
+20140120150501:taylorsavage.com:stderr:  
+20140120150501:taylorsavage.com:stderr: 304
+20140120150501:taylorsavage.com:stderr:  https://registry.npmjs.org/http-signature
+20140120150501:taylorsavage.com:stderr: npm
+20140120150501:taylorsavage.com:stderr:  
+20140120150501:taylorsavage.com:stderr: http
+20140120150501:taylorsavage.com:stderr:  
+20140120150501:taylorsavage.com:stderr: 304
+20140120150501:taylorsavage.com:stderr:  https://registry.npmjs.org/hawk
+20140120150501:taylorsavage.com:stderr: npm
+20140120150501:taylorsavage.com:stderr:  
+20140120150501:taylorsavage.com:stderr: http
+20140120150501:taylorsavage.com:stderr:  
+20140120150501:taylorsavage.com:stderr: 304
+20140120150501:taylorsavage.com:stderr:  https://registry.npmjs.org/form-data
+20140120150501:taylorsavage.com:stderr: npm
+20140120150501:taylorsavage.com:stderr:  
+20140120150501:taylorsavage.com:stderr: http
+20140120150501:taylorsavage.com:stderr:  
+20140120150501:taylorsavage.com:stderr: 304
+20140120150501:taylorsavage.com:stderr:  https://registry.npmjs.org/mime
+20140120150501:taylorsavage.com:stderr: npm
+20140120150501:taylorsavage.com:stderr:  
+20140120150501:taylorsavage.com:stderr: http
+20140120150501:taylorsavage.com:stderr:  
+20140120150501:taylorsavage.com:stderr: 304
+20140120150501:taylorsavage.com:stderr:  https://registry.npmjs.org/tunnel-agent
+20140120150501:taylorsavage.com:stderr: npm
+20140120150501:taylorsavage.com:stderr:  
+20140120150501:taylorsavage.com:stderr: http
+20140120150501:taylorsavage.com:stderr:  304
+20140120150501:taylorsavage.com:stderr:  https://registry.npmjs.org/qs
+20140120150502:taylorsavage.com:stderr: npm
+20140120150502:taylorsavage.com:stderr:  
+20140120150502:taylorsavage.com:stderr: http 200 https://registry.npmjs.org/aws-sign2
+20140120150502:taylorsavage.com:stderr: npm
+20140120150502:taylorsavage.com:stderr:  
+20140120150502:taylorsavage.com:stderr: http
+20140120150502:taylorsavage.com:stderr:  
+20140120150502:taylorsavage.com:stderr: 304
+20140120150502:taylorsavage.com:stderr:  https://registry.npmjs.org/forever-agent
+20140120150502:taylorsavage.com:stderr: npm
+20140120150502:taylorsavage.com:stderr:  
+20140120150502:taylorsavage.com:stderr: http
+20140120150502:taylorsavage.com:stderr:  
+20140120150502:taylorsavage.com:stderr: 304
+20140120150502:taylorsavage.com:stderr:  https://registry.npmjs.org/node-uuid
+20140120150502:taylorsavage.com:stderr: npm
+20140120150502:taylorsavage.com:stderr:  
+20140120150502:taylorsavage.com:stderr: http
+20140120150502:taylorsavage.com:stderr:  
+20140120150502:taylorsavage.com:stderr: 200
+20140120150502:taylorsavage.com:stderr:  https://registry.npmjs.org/tough-cookie
+20140120150502:taylorsavage.com:stderr: npm 
+20140120150502:taylorsavage.com:stderr: http
+20140120150502:taylorsavage.com:stderr:  
+20140120150502:taylorsavage.com:stderr: 304
+20140120150502:taylorsavage.com:stderr:  https://registry.npmjs.org/json-stringify-safe
+20140120150503:taylorsavage.com:stderr: npm
+20140120150503:taylorsavage.com:stderr:  
+20140120150503:taylorsavage.com:stderr: http GET https://registry.npmjs.org/tough-cookie/-/tough-cookie-0.12.1.tgz
+20140120150503:taylorsavage.com:stderr: npm
+20140120150503:taylorsavage.com:stderr:  
+20140120150503:taylorsavage.com:stderr: http
+20140120150503:taylorsavage.com:stderr:  
+20140120150503:taylorsavage.com:stderr: 200
+20140120150503:taylorsavage.com:stderr:  https://registry.npmjs.org/tough-cookie/-/tough-cookie-0.12.1.tgz
+20140120150511:taylorsavage.com:stderr: npm
+20140120150511:taylorsavage.com:stderr:  http GET https://registry.npmjs.org/combined-stream
+20140120150511:taylorsavage.com:stderr: npm
+20140120150511:taylorsavage.com:stderr:  http GET
+20140120150511:taylorsavage.com:stderr:  https://registry.npmjs.org/async
+20140120150512:taylorsavage.com:stderr: npm
+20140120150512:taylorsavage.com:stderr:  http 304 https://registry.npmjs.org/combined-stream
+20140120150512:taylorsavage.com:stderr: npm
+20140120150512:taylorsavage.com:stderr:  http 304 https://registry.npmjs.org/async
+20140120150514:taylorsavage.com:stderr: npm
+20140120150514:taylorsavage.com:stderr:  http GET https://registry.npmjs.org/assert-plus/0.1.2
+20140120150514:taylorsavage.com:stderr: npm http 
+20140120150514:taylorsavage.com:stderr: GET https://registry.npmjs.org/asn1/0.1.11
+20140120150514:taylorsavage.com:stderr: npm http GET https://registry.npmjs.org/ctype/0.5.2
+20140120150515:taylorsavage.com:stderr: npm
+20140120150515:taylorsavage.com:stderr:  http 304 https://registry.npmjs.org/assert-plus/0.1.2
+20140120150515:taylorsavage.com:stderr: npm http 304
+20140120150515:taylorsavage.com:stderr:  https://registry.npmjs.org/asn1/0.1.11
+20140120150515:taylorsavage.com:stderr: npm
+20140120150515:taylorsavage.com:stderr:  
+20140120150515:taylorsavage.com:stderr: http
+20140120150515:taylorsavage.com:stderr:  
+20140120150515:taylorsavage.com:stderr: 304
+20140120150515:taylorsavage.com:stderr:  https://registry.npmjs.org/ctype/0.5.2
+20140120150518:taylorsavage.com:stderr: npm
+20140120150518:taylorsavage.com:stderr:  http GET https://registry.npmjs.org/delayed-stream/0.0.5
+20140120150518:taylorsavage.com:stderr: npm
+20140120150518:taylorsavage.com:stderr:  
+20140120150518:taylorsavage.com:stderr: http
+20140120150518:taylorsavage.com:stderr:  
+20140120150518:taylorsavage.com:stderr: 304
+20140120150518:taylorsavage.com:stderr:  https://registry.npmjs.org/delayed-stream/0.0.5
+20140120150519:taylorsavage.com:stderr: npm
+20140120150519:taylorsavage.com:stderr:  
+20140120150519:taylorsavage.com:stderr: http
+20140120150519:taylorsavage.com:stderr:  GET https://registry.npmjs.org/punycode
+20140120150520:taylorsavage.com:stderr: npm
+20140120150520:taylorsavage.com:stderr:  
+20140120150520:taylorsavage.com:stderr: http 200 https://registry.npmjs.org/punycode
+20140120150520:taylorsavage.com:stderr: npm
+20140120150520:taylorsavage.com:stderr:  http GET https://registry.npmjs.org/hoek
+20140120150520:taylorsavage.com:stderr: npm http 
+20140120150520:taylorsavage.com:stderr: GET https://registry.npmjs.org/boom
+20140120150520:taylorsavage.com:stderr: npm
+20140120150520:taylorsavage.com:stderr:  
+20140120150520:taylorsavage.com:stderr: http
+20140120150520:taylorsavage.com:stderr:  
+20140120150520:taylorsavage.com:stderr: GET
+20140120150520:taylorsavage.com:stderr:  https://registry.npmjs.org/cryptiles
+20140120150520:taylorsavage.com:stderr: npm
+20140120150520:taylorsavage.com:stderr:  
+20140120150520:taylorsavage.com:stderr: http
+20140120150520:taylorsavage.com:stderr:  
+20140120150520:taylorsavage.com:stderr: GET
+20140120150520:taylorsavage.com:stderr:  https://registry.npmjs.org/sntp
+20140120150520:taylorsavage.com:stderr: npm
+20140120150520:taylorsavage.com:stderr:  
+20140120150520:taylorsavage.com:stderr: WARN
+20140120150520:taylorsavage.com:stderr:  
+20140120150520:taylorsavage.com:stderr: package.json
+20140120150520:taylorsavage.com:stderr:  punycode@1.2.3 No README.md file found!
+20140120150520:taylorsavage.com:stderr: npm
+20140120150520:taylorsavage.com:stderr:  
+20140120150520:taylorsavage.com:stderr: http
+20140120150520:taylorsavage.com:stderr:  
+20140120150520:taylorsavage.com:stderr: 304
+20140120150520:taylorsavage.com:stderr:  https://registry.npmjs.org/cryptiles
+20140120150520:taylorsavage.com:stderr: npm
+20140120150520:taylorsavage.com:stderr:  
+20140120150520:taylorsavage.com:stderr: http
+20140120150520:taylorsavage.com:stderr:  
+20140120150520:taylorsavage.com:stderr: 304
+20140120150520:taylorsavage.com:stderr:  https://registry.npmjs.org/hoek
+20140120150521:taylorsavage.com:stderr: npm
+20140120150521:taylorsavage.com:stderr:  
+20140120150521:taylorsavage.com:stderr: http
+20140120150521:taylorsavage.com:stderr:  
+20140120150521:taylorsavage.com:stderr: 304
+20140120150521:taylorsavage.com:stderr:  https://registry.npmjs.org/sntp
+20140120150521:taylorsavage.com:stderr: npm
+20140120150521:taylorsavage.com:stderr:  http 304 https://registry.npmjs.org/boom
+20140120150529:taylorsavage.com:stdout: request@2.33.0 node_modules/request
+20140120150529:taylorsavage.com:stdout: ├── json-stringify-safe@5.0.0
+20140120150529:taylorsavage.com:stdout: ├── aws-sign2@0.5.0
+20140120150529:taylorsavage.com:stdout: ├── forever-agent@0.5.0
+20140120150529:taylorsavage.com:stdout: ├── qs@0.6.6
+20140120150529:taylorsavage.com:stdout: ├── tunnel-agent@0.3.0
+20140120150529:taylorsavage.com:stdout: ├── oauth-sign@0.3.0
+20140120150529:taylorsavage.com:stdout: ├── node-uuid@1.4.1
+20140120150529:taylorsavage.com:stdout: ├── mime@1.2.11
+20140120150529:taylorsavage.com:stdout: ├── form-data@0.1.2 (async@0.2.9, combined-stream@0.0.4)
+20140120150529:taylorsavage.com:stdout: ├── http-signature@0.10.0 (assert-plus@0.1.2, asn1@0.1.11, ctype@0.5.2)
+20140120150529:taylorsavage.com:stdout: ├── tough-cookie@0.12.1 (punycode@1.2.3)
+20140120150529:taylorsavage.com:stdout: └── hawk@1.0.0 (cryptiles@0.2.2, sntp@0.2.4, boom@0.4.2, hoek@0.9.1)
+20140120150530:taylorsavage.com:exit: 0
+20140120150530:taylorsavage.com:pi:ssh: cd /home/pi/canvas/canvas-server && git pull origin master && npm install
+20140120150532:taylorsavage.com:stderr: From github.com:tjsavage/canvas-server
+20140120150532:taylorsavage.com:stderr:  * branch            master     -> FETCH_HEAD
+20140120150532:taylorsavage.com:stdout: Already up-to-date.
+20140120150538:taylorsavage.com:stderr: npm
+20140120150538:taylorsavage.com:stderr:  WARN 
+20140120150538:taylorsavage.com:stderr: package.json canvas-server@0.0.1 No README.md file found!
+20140120150541:taylorsavage.com:exit: 0
+20140120150541:taylorsavage.com:pi:scp: ./config.vincent.json pi@taylorsavage.com:/home/pi/canvas/canvas-deploy/config.json
+20140120150541:taylorsavage.com:exit: 0
+20140120150541:taylorsavage.com:pi:ssh: /etc/init.d/nodejs.sh restart
+20140120150542:taylorsavage.com:stderr: /opt/node/bin/node: no process found
+20140120150542:taylorsavage.com:stdout: killed. starting node: /opt/node/bin/node /home/pi/canvas/canvas-deploy/start.js
+20140120150542:taylorsavage.com:stdout: 100
+20140120150543:taylorsavage.com:exit: 0
+20140120150618:taylorsavage.com:stderr: npm
+20140120150618:taylorsavage.com:stderr:  http GET
+20140120150618:taylorsavage.com:stderr:  https://registry.npmjs.org/zeparser/0.0.5
+20140120150619:taylorsavage.com:stderr: npm
+20140120150619:taylorsavage.com:stderr:  http 200 https://registry.npmjs.org/zeparser/0.0.5
+20140120150619:taylorsavage.com:stderr: npm
+20140120150619:taylorsavage.com:stderr:  
+20140120150619:taylorsavage.com:stderr: http
+20140120150619:taylorsavage.com:stderr:  
+20140120150619:taylorsavage.com:stderr: GET
+20140120150619:taylorsavage.com:stderr:  https://registry.npmjs.org/zeparser/-/zeparser-0.0.5.tgz
+20140120150620:taylorsavage.com:stderr: npm
+20140120150620:taylorsavage.com:stderr:  http 200 https://registry.npmjs.org/zeparser/-/zeparser-0.0.5.tgz
+20140120150622:taylorsavage.com:stderr: npm
+20140120150622:taylorsavage.com:stderr:  
+20140120150622:taylorsavage.com:stderr: http GET
+20140120150622:taylorsavage.com:stderr:  https://registry.npmjs.org/commander
+20140120150622:taylorsavage.com:stderr: npm
+20140120150622:taylorsavage.com:stderr:  http 
+20140120150622:taylorsavage.com:stderr: GET https://registry.npmjs.org/options
+20140120150622:taylorsavage.com:stderr: npm http GET https://registry.npmjs.org/tinycolor
+20140120150622:taylorsavage.com:stderr: npm
+20140120150622:taylorsavage.com:stderr:  
+20140120150622:taylorsavage.com:stderr: http
+20140120150622:taylorsavage.com:stderr:  
+20140120150622:taylorsavage.com:stderr: GET
+20140120150622:taylorsavage.com:stderr:  https://registry.npmjs.org/nan
+20140120150623:taylorsavage.com:stderr: npm
+20140120150623:taylorsavage.com:stderr:  
+20140120150623:taylorsavage.com:stderr: http 200 https://registry.npmjs.org/options
+20140120150623:taylorsavage.com:stderr: npm http 
+20140120150623:taylorsavage.com:stderr: 200 https://registry.npmjs.org/tinycolor
+20140120150623:taylorsavage.com:stderr: npm
+20140120150623:taylorsavage.com:stderr:  http
+20140120150623:taylorsavage.com:stderr:  200 https://registry.npmjs.org/commander
+20140120150624:taylorsavage.com:stderr: npm
+20140120150624:taylorsavage.com:stderr:  http 200 https://registry.npmjs.org/nan
+20140120150642:taylorsavage.com:stdout: > ws@0.4.31 install /home/pi/canvas/canvas-client/node_modules/socket.io-client/node_modules/ws
+20140120150642:taylorsavage.com:stdout: > (node-gyp rebuild 2> builderror.log) || (exit 0)
+20140120150702:taylorsavage.com:stdout: make: Entering directory `/home/pi/canvas/canvas-client/node_modules/socket.io-client/node_modules/ws/build'
+20140120150702:taylorsavage.com:stdout:   CXX(target) Release/obj.target/bufferutil/src/bufferutil.o
+20140120150714:taylorsavage.com:stdout:   SOLINK_MODULE(target) Release/obj.target/bufferutil.node
+20140120150716:taylorsavage.com:stdout:   SOLINK_MODULE(target) Release/obj.target/bufferutil.node: Finished
+20140120150716:taylorsavage.com:stdout:   COPY Release/bufferutil.node
+20140120150716:taylorsavage.com:stdout:   CXX(target) Release/obj.target/validation/src/validation.o
+20140120150736:taylorsavage.com:stdout:   SOLINK_MODULE(target) Release/obj.target/validation.node
+20140120150738:taylorsavage.com:stdout:   SOLINK_MODULE(target) Release/obj.target/validation.node: Finished
+20140120150738:taylorsavage.com:stdout:   COPY Release/validation.node
+20140120150738:taylorsavage.com:stdout: make: Leaving directory `/home/pi/canvas/canvas-client/node_modules/socket.io-client/node_modules/ws/build'
+20140120150826:taylorsavage.com:stderr: npm
+20140120150826:taylorsavage.com:stderr:  http GET
+20140120150826:taylorsavage.com:stderr:  https://registry.npmjs.org/stream-counter
+20140120150826:taylorsavage.com:stderr: npm
+20140120150826:taylorsavage.com:stderr:  
+20140120150826:taylorsavage.com:stderr: http
+20140120150826:taylorsavage.com:stderr:  
+20140120150826:taylorsavage.com:stderr: GET https://registry.npmjs.org/readable-stream
+20140120150827:taylorsavage.com:stderr: npm
+20140120150827:taylorsavage.com:stderr:  
+20140120150827:taylorsavage.com:stderr: http 200
+20140120150827:taylorsavage.com:stderr:  https://registry.npmjs.org/stream-counter
+20140120150828:taylorsavage.com:stderr: npm
+20140120150828:taylorsavage.com:stderr:  http 200 https://registry.npmjs.org/readable-stream
+20140120150828:taylorsavage.com:stderr: npm
+20140120150828:taylorsavage.com:stderr:  
+20140120150828:taylorsavage.com:stderr: http
+20140120150828:taylorsavage.com:stderr:  GET
+20140120150828:taylorsavage.com:stderr:  https://registry.npmjs.org/readable-stream/-/readable-stream-1.1.10.tgz
+20140120150828:taylorsavage.com:stderr: npm
+20140120150828:taylorsavage.com:stderr:  http 200
+20140120150828:taylorsavage.com:stderr:  https://registry.npmjs.org/readable-stream/-/readable-stream-1.1.10.tgz
+20140120150842:taylorsavage.com:stderr: npm
+20140120150842:taylorsavage.com:stderr:  
+20140120150842:taylorsavage.com:stderr: http GET
+20140120150842:taylorsavage.com:stderr:  https://registry.npmjs.org/core-util-is
+20140120150843:taylorsavage.com:stderr: npm
+20140120150843:taylorsavage.com:stderr:  
+20140120150843:taylorsavage.com:stderr: http
+20140120150843:taylorsavage.com:stderr:  
+20140120150843:taylorsavage.com:stderr: GET
+20140120150843:taylorsavage.com:stderr:  https://registry.npmjs.org/debuglog/0.0.2
+20140120150844:taylorsavage.com:stderr: npm
+20140120150844:taylorsavage.com:stderr:  http 200
+20140120150844:taylorsavage.com:stderr:  https://registry.npmjs.org/core-util-is
+20140120150844:taylorsavage.com:stderr: npm http 
+20140120150844:taylorsavage.com:stderr: GET https://registry.npmjs.org/core-util-is/-/core-util-is-1.0.1.tgz
+20140120150844:taylorsavage.com:stderr: npm http 200 https://registry.npmjs.org/debuglog/0.0.2
+20140120150844:taylorsavage.com:stderr: npm
+20140120150844:taylorsavage.com:stderr:  http
+20140120150844:taylorsavage.com:stderr:  GET
+20140120150844:taylorsavage.com:stderr:  https://registry.npmjs.org/debuglog/-/debuglog-0.0.2.tgz
+20140120150844:taylorsavage.com:stderr: npm
+20140120150844:taylorsavage.com:stderr:  http 200 https://registry.npmjs.org/core-util-is/-/core-util-is-1.0.1.tgz
+20140120150844:taylorsavage.com:stderr: npm
+20140120150844:taylorsavage.com:stderr:  
+20140120150844:taylorsavage.com:stderr: http
+20140120150844:taylorsavage.com:stderr:  
+20140120150844:taylorsavage.com:stderr: 200 https://registry.npmjs.org/debuglog/-/debuglog-0.0.2.tgz
+20140120150936:taylorsavage.com:stdout: gpio@0.2.5 node_modules/gpio
+20140120150936:taylorsavage.com:stdout: should@3.0.1 node_modules/should
+20140120150936:taylorsavage.com:stdout: optimist@0.6.0 node_modules/optimist
+20140120150936:taylorsavage.com:stdout: ├── wordwrap@0.0.2
+20140120150936:taylorsavage.com:stdout: └── minimist@0.0.5
+20140120150936:taylorsavage.com:stdout: spi@0.0.1 node_modules/spi
+20140120150936:taylorsavage.com:stdout: └── bindings@1.1.1
+20140120150936:taylorsavage.com:stdout: serialport@1.1.3 node_modules/serialport
+20140120150936:taylorsavage.com:stdout: ├── bindings@1.1.0
+20140120150936:taylorsavage.com:stdout: ├── sf@0.1.6
+20140120150936:taylorsavage.com:stdout: ├── async@0.1.18
+20140120150936:taylorsavage.com:stdout: └── optimist@0.3.7 (wordwrap@0.0.2)
+20140120150936:taylorsavage.com:stdout: mocha@1.17.0 node_modules/mocha
+20140120150936:taylorsavage.com:stdout: ├── diff@1.0.7
+20140120150936:taylorsavage.com:stdout: ├── debug@0.7.4
+20140120150936:taylorsavage.com:stdout: ├── growl@1.7.0
+20140120150936:taylorsavage.com:stdout: ├── commander@2.0.0
+20140120150936:taylorsavage.com:stdout: ├── mkdirp@0.3.5
+20140120150936:taylorsavage.com:stdout: ├── glob@3.2.3 (inherits@2.0.1, graceful-fs@2.0.1, minimatch@0.2.14)
+20140120150936:taylorsavage.com:stdout: └── jade@0.26.3 (commander@0.6.1, mkdirp@0.3.0)
+20140120150936:taylorsavage.com:stdout: twilio@1.5.0 node_modules/twilio
+20140120150936:taylorsavage.com:stdout: ├── jwt-simple@0.1.0
+20140120150936:taylorsavage.com:stdout: ├── underscore@1.5.2
+20140120150936:taylorsavage.com:stdout: ├── q@0.9.7
+20140120150936:taylorsavage.com:stdout: └── request@2.27.0 (json-stringify-safe@5.0.0, forever-agent@0.5.0, aws-sign@0.3.0, qs@0.6.6, tunnel-agent@0.3.0, oauth-sign@0.3.0, cookie-jar@0.3.0, node-uuid@1.4.1, mime@1.2.11, hawk@1.0.0, form-data@0.1.2, http-signature@0.10.0)
+20140120150936:taylorsavage.com:stdout: express@3.4.4 node_modules/express
+20140120150936:taylorsavage.com:stdout: ├── methods@0.1.0
+20140120150936:taylorsavage.com:stdout: ├── range-parser@0.0.4
+20140120150936:taylorsavage.com:stdout: ├── cookie-signature@1.0.1
+20140120150936:taylorsavage.com:stdout: ├── fresh@0.2.0
+20140120150936:taylorsavage.com:stdout: ├── debug@0.7.4
+20140120150936:taylorsavage.com:stdout: ├── buffer-crc32@0.2.1
+20140120150936:taylorsavage.com:stdout: ├── cookie@0.1.0
+20140120150936:taylorsavage.com:stdout: ├── mkdirp@0.3.5
+20140120150936:taylorsavage.com:stdout: ├── send@0.1.4 (mime@1.2.11)
+20140120150936:taylorsavage.com:stdout: ├── commander@1.3.2 (keypress@0.1.0)
+20140120150936:taylorsavage.com:stdout: └── connect@2.11.0 (methods@0.0.1, uid2@0.0.3, pause@0.0.1, raw-body@0.0.3, qs@0.6.5, bytes@0.2.1, negotiator@0.3.0, multiparty@2.2.0)
+20140120150936:taylorsavage.com:stdout: socket.io-client@0.9.16 node_modules/socket.io-client
+20140120150936:taylorsavage.com:stdout: ├── xmlhttprequest@1.4.2
+20140120150936:taylorsavage.com:stdout: ├── uglify-js@1.2.5
+20140120150936:taylorsavage.com:stdout: ├── ws@0.4.31 (tinycolor@0.0.1, commander@0.6.1, options@0.0.5, nan@0.3.2)
+20140120150936:taylorsavage.com:stdout: └── active-x-obfuscator@0.0.1 (zeparser@0.0.5)
+20140120150938:taylorsavage.com:exit: 0
+20140120150938:taylorsavage.com:pi:ssh: cd /home/pi/canvas/canvas-server && git pull origin master && npm install
+20140120150944:taylorsavage.com:stderr: From github.com:tjsavage/canvas-server
+20140120150944:taylorsavage.com:stderr:  * branch            master     -> FETCH_HEAD
+20140120150946:taylorsavage.com:stdout: Already up-to-date.
+20140120150952:taylorsavage.com:stderr: npm
+20140120150952:taylorsavage.com:stderr:  WARN package.json canvas-server@0.0.1 No README.md file found!
+20140120150953:taylorsavage.com:stderr: npm 
+20140120150953:taylorsavage.com:stderr: http GET https://registry.npmjs.org/jade
+20140120150953:taylorsavage.com:stderr: npm 
+20140120150953:taylorsavage.com:stderr: http GET https://registry.npmjs.org/express/3.4.4
+20140120150954:taylorsavage.com:stderr: npm 
+20140120150954:taylorsavage.com:stderr: http 
+20140120150954:taylorsavage.com:stderr: 304 https://registry.npmjs.org/express/3.4.4
+20140120150954:taylorsavage.com:stderr: npm
+20140120150954:taylorsavage.com:stderr:  
+20140120150954:taylorsavage.com:stderr: http 200 https://registry.npmjs.org/jade
+20140120150955:taylorsavage.com:stderr: npm
+20140120150955:taylorsavage.com:stderr:  
+20140120150955:taylorsavage.com:stderr: http
+20140120150955:taylorsavage.com:stderr:  
+20140120150955:taylorsavage.com:stderr: GET
+20140120150955:taylorsavage.com:stderr:  https://registry.npmjs.org/jade/-/jade-1.1.5.tgz
+20140120150955:taylorsavage.com:stderr: npm
+20140120150955:taylorsavage.com:stderr:  http 200 https://registry.npmjs.org/jade/-/jade-1.1.5.tgz
+20140120151007:taylorsavage.com:stderr: npm 
+20140120151007:taylorsavage.com:stderr: http GET https://registry.npmjs.org/cookie/0.1.0
+20140120151007:taylorsavage.com:stderr: npm
+20140120151007:taylorsavage.com:stderr:  http GET https://registry.npmjs.org/buffer-crc32/0.2.1
+20140120151007:taylorsavage.com:stderr: npm http GET https://registry.npmjs.org/send/0.1.4
+20140120151007:taylorsavage.com:stderr: npm http GET https://registry.npmjs.org/fresh/0.2.0
+20140120151007:taylorsavage.com:stderr: npm http
+20140120151007:taylorsavage.com:stderr:  
+20140120151007:taylorsavage.com:stderr: GET
+20140120151007:taylorsavage.com:stderr:  https://registry.npmjs.org/cookie-signature/1.0.1
+20140120151007:taylorsavage.com:stderr: npm
+20140120151007:taylorsavage.com:stderr:  
+20140120151007:taylorsavage.com:stderr: http
+20140120151007:taylorsavage.com:stderr:  GET
+20140120151007:taylorsavage.com:stderr:  https://registry.npmjs.org/debug
+20140120151007:taylorsavage.com:stderr: npm
+20140120151007:taylorsavage.com:stderr:  http
+20140120151007:taylorsavage.com:stderr:  GET
+20140120151007:taylorsavage.com:stderr:  https://registry.npmjs.org/methods/0.1.0
+20140120151007:taylorsavage.com:stderr: npm http GET https://registry.npmjs.org/connect/2.11.0
+20140120151007:taylorsavage.com:stderr: npm
+20140120151007:taylorsavage.com:stderr:  
+20140120151007:taylorsavage.com:stderr: http
+20140120151007:taylorsavage.com:stderr:  
+20140120151007:taylorsavage.com:stderr: GET
+20140120151007:taylorsavage.com:stderr:  https://registry.npmjs.org/commander/1.3.2
+20140120151007:taylorsavage.com:stderr: npm
+20140120151007:taylorsavage.com:stderr:  http
+20140120151007:taylorsavage.com:stderr:  GET
+20140120151007:taylorsavage.com:stderr:  https://registry.npmjs.org/range-parser/0.0.4
+20140120151007:taylorsavage.com:stderr: npm
+20140120151007:taylorsavage.com:stderr:  http
+20140120151007:taylorsavage.com:stderr:  GET https://registry.npmjs.org/mkdirp/0.3.5
+20140120151008:taylorsavage.com:stderr: npm http
+20140120151008:taylorsavage.com:stderr:  304
+20140120151008:taylorsavage.com:stderr:  https://registry.npmjs.org/buffer-crc32/0.2.1
+20140120151008:taylorsavage.com:stderr: npm
+20140120151008:taylorsavage.com:stderr:  
+20140120151008:taylorsavage.com:stderr: http
+20140120151008:taylorsavage.com:stderr:  304
+20140120151008:taylorsavage.com:stderr:  https://registry.npmjs.org/cookie/0.1.0
+20140120151008:taylorsavage.com:stderr: npm http
+20140120151008:taylorsavage.com:stderr:  304 https://registry.npmjs.org/fresh/0.2.0
+20140120151008:taylorsavage.com:stderr: npm
+20140120151008:taylorsavage.com:stderr:  
+20140120151008:taylorsavage.com:stderr: http
+20140120151008:taylorsavage.com:stderr:  
+20140120151008:taylorsavage.com:stderr: 304 https://registry.npmjs.org/send/0.1.4
+20140120151008:taylorsavage.com:stderr: npm
+20140120151008:taylorsavage.com:stderr:  
+20140120151008:taylorsavage.com:stderr: http
+20140120151008:taylorsavage.com:stderr:  
+20140120151008:taylorsavage.com:stderr: 304
+20140120151008:taylorsavage.com:stderr:  https://registry.npmjs.org/cookie-signature/1.0.1
+20140120151008:taylorsavage.com:stderr: npm
+20140120151008:taylorsavage.com:stderr:  
+20140120151008:taylorsavage.com:stderr: http
+20140120151008:taylorsavage.com:stderr:  
+20140120151008:taylorsavage.com:stderr: 304
+20140120151008:taylorsavage.com:stderr:  https://registry.npmjs.org/debug
+20140120151008:taylorsavage.com:stderr: npm
+20140120151008:taylorsavage.com:stderr:  
+20140120151008:taylorsavage.com:stderr: http 
+20140120151008:taylorsavage.com:stderr: 304 https://registry.npmjs.org/methods/0.1.0
+20140120151008:taylorsavage.com:stderr: npm
+20140120151008:taylorsavage.com:stderr:  
+20140120151008:taylorsavage.com:stderr: http 304
+20140120151008:taylorsavage.com:stderr:  https://registry.npmjs.org/connect/2.11.0
+20140120151008:taylorsavage.com:stderr: npm
+20140120151008:taylorsavage.com:stderr:  
+20140120151008:taylorsavage.com:stderr: http
+20140120151008:taylorsavage.com:stderr:  304
+20140120151008:taylorsavage.com:stderr:  https://registry.npmjs.org/commander/1.3.2
+20140120151008:taylorsavage.com:stderr: npm
+20140120151008:taylorsavage.com:stderr:  
+20140120151008:taylorsavage.com:stderr: http
+20140120151008:taylorsavage.com:stderr:  
+20140120151008:taylorsavage.com:stderr: 304
+20140120151008:taylorsavage.com:stderr:  https://registry.npmjs.org/range-parser/0.0.4
+20140120151008:taylorsavage.com:stderr: npm
+20140120151008:taylorsavage.com:stderr:  http
+20140120151008:taylorsavage.com:stderr:  304 https://registry.npmjs.org/mkdirp/0.3.5
+20140120151013:taylorsavage.com:stderr: npm
+20140120151013:taylorsavage.com:stderr:  
+20140120151013:taylorsavage.com:stderr: http
+20140120151013:taylorsavage.com:stderr:  
+20140120151013:taylorsavage.com:stderr: GET
+20140120151013:taylorsavage.com:stderr:  https://registry.npmjs.org/mime
+20140120151013:taylorsavage.com:stderr: npm 
+20140120151013:taylorsavage.com:stderr: http
+20140120151013:taylorsavage.com:stderr:  
+20140120151013:taylorsavage.com:stderr: GET https://registry.npmjs.org/keypress
+20140120151013:taylorsavage.com:stderr: npm 
+20140120151013:taylorsavage.com:stderr: http 304 https://registry.npmjs.org/mime
+20140120151013:taylorsavage.com:stderr: npm http 
+20140120151013:taylorsavage.com:stderr: 304 https://registry.npmjs.org/keypress
+20140120151019:taylorsavage.com:stderr: npm
+20140120151019:taylorsavage.com:stderr:  
+20140120151019:taylorsavage.com:stderr: http GET https://registry.npmjs.org/uid2/0.0.3
+20140120151019:taylorsavage.com:stderr: npm http 
+20140120151019:taylorsavage.com:stderr: GET https://registry.npmjs.org/methods/0.0.1
+20140120151019:taylorsavage.com:stderr: npm http GET https://registry.npmjs.org/raw-body/0.0.3
+20140120151019:taylorsavage.com:stderr: npm http GET https://registry.npmjs.org/negotiator/0.3.0
+20140120151019:taylorsavage.com:stderr: npm http GET https://registry.npmjs.org/multiparty/2.2.0
+20140120151019:taylorsavage.com:stderr: npm http GET
+20140120151019:taylorsavage.com:stderr:  https://registry.npmjs.org/qs/0.6.5
+20140120151019:taylorsavage.com:stderr: npm http GET https://registry.npmjs.org/bytes/0.2.1
+20140120151019:taylorsavage.com:stderr: npm http GET https://registry.npmjs.org/pause/0.0.1
+20140120151020:taylorsavage.com:stderr: npm 
+20140120151020:taylorsavage.com:stderr: http 304 https://registry.npmjs.org/uid2/0.0.3
+20140120151020:taylorsavage.com:stderr: npm http 
+20140120151020:taylorsavage.com:stderr: 304 https://registry.npmjs.org/methods/0.0.1
+20140120151020:taylorsavage.com:stderr: npm http 304 https://registry.npmjs.org/raw-body/0.0.3
+20140120151020:taylorsavage.com:stderr: npm http 304 https://registry.npmjs.org/negotiator/0.3.0
+20140120151020:taylorsavage.com:stderr: npm http 304 https://registry.npmjs.org/multiparty/2.2.0
+20140120151020:taylorsavage.com:stderr: npm http 304
+20140120151020:taylorsavage.com:stderr:  https://registry.npmjs.org/qs/0.6.5
+20140120151020:taylorsavage.com:stderr: npm http 304 https://registry.npmjs.org/pause/0.0.1
+20140120151020:taylorsavage.com:stderr: npm http 304 https://registry.npmjs.org/bytes/0.2.1
+20140120151020:taylorsavage.com:stderr: npm
+20140120151020:taylorsavage.com:stderr:  
+20140120151020:taylorsavage.com:stderr: WARN
+20140120151020:taylorsavage.com:stderr:  
+20140120151020:taylorsavage.com:stderr: package.json
+20140120151020:taylorsavage.com:stderr:  uid2@0.0.3 No README.md file found!
+20140120151020:taylorsavage.com:stderr: npm 
+20140120151020:taylorsavage.com:stderr: WARN
+20140120151020:taylorsavage.com:stderr:  
+20140120151020:taylorsavage.com:stderr: package.json
+20140120151020:taylorsavage.com:stderr:  methods@0.0.1 No README.md file found!
+20140120151031:taylorsavage.com:stderr: npm 
+20140120151031:taylorsavage.com:stderr: http GET
+20140120151031:taylorsavage.com:stderr:  https://registry.npmjs.org/character-parser/1.2.0
+20140120151031:taylorsavage.com:stderr: npm http 
+20140120151031:taylorsavage.com:stderr: GET https://registry.npmjs.org/monocle/1.1.51
+20140120151031:taylorsavage.com:stderr: npm http GET https://registry.npmjs.org/with
+20140120151031:taylorsavage.com:stderr: npm 
+20140120151031:taylorsavage.com:stderr: http
+20140120151031:taylorsavage.com:stderr:  
+20140120151031:taylorsavage.com:stderr: GET
+20140120151031:taylorsavage.com:stderr:  https://registry.npmjs.org/constantinople
+20140120151031:taylorsavage.com:stderr: npm
+20140120151031:taylorsavage.com:stderr:  
+20140120151031:taylorsavage.com:stderr: http
+20140120151031:taylorsavage.com:stderr:  
+20140120151031:taylorsavage.com:stderr: GET
+20140120151031:taylorsavage.com:stderr:  https://registry.npmjs.org/commander/2.1.0
+20140120151031:taylorsavage.com:stderr: npm
+20140120151031:taylorsavage.com:stderr:  http
+20140120151031:taylorsavage.com:stderr:  GET
+20140120151031:taylorsavage.com:stderr:  https://registry.npmjs.org/transformers/2.1.0
+20140120151032:taylorsavage.com:stderr: npm 
+20140120151032:taylorsavage.com:stderr: http 200 https://registry.npmjs.org/with
+20140120151032:taylorsavage.com:stderr: npm http 
+20140120151032:taylorsavage.com:stderr: 200 https://registry.npmjs.org/character-parser/1.2.0
+20140120151032:taylorsavage.com:stderr: npm http 200 https://registry.npmjs.org/commander/2.1.0
+20140120151032:taylorsavage.com:stderr: npm http 200 https://registry.npmjs.org/monocle/1.1.51
+20140120151032:taylorsavage.com:stderr: npm
+20140120151032:taylorsavage.com:stderr:  http 200
+20140120151032:taylorsavage.com:stderr:  https://registry.npmjs.org/transformers/2.1.0
+20140120151032:taylorsavage.com:stderr: npm
+20140120151032:taylorsavage.com:stderr:  http
+20140120151032:taylorsavage.com:stderr:  
+20140120151032:taylorsavage.com:stderr: 200
+20140120151032:taylorsavage.com:stderr:  https://registry.npmjs.org/constantinople
+20140120151032:taylorsavage.com:stderr: npm
+20140120151032:taylorsavage.com:stderr:  
+20140120151032:taylorsavage.com:stderr: http
+20140120151032:taylorsavage.com:stderr:  
+20140120151032:taylorsavage.com:stderr: GET
+20140120151032:taylorsavage.com:stderr:  https://registry.npmjs.org/commander/-/commander-2.1.0.tgz
+20140120151032:taylorsavage.com:stderr: npm
+20140120151032:taylorsavage.com:stderr:  
+20140120151032:taylorsavage.com:stderr: http
+20140120151032:taylorsavage.com:stderr:  
+20140120151032:taylorsavage.com:stderr: GET
+20140120151032:taylorsavage.com:stderr:  https://registry.npmjs.org/with/-/with-2.0.0.tgz
+20140120151032:taylorsavage.com:stderr: npm
+20140120151032:taylorsavage.com:stderr:  
+20140120151032:taylorsavage.com:stderr: http
+20140120151032:taylorsavage.com:stderr:  GET
+20140120151032:taylorsavage.com:stderr:  https://registry.npmjs.org/constantinople/-/constantinople-1.0.2.tgz
+20140120151032:taylorsavage.com:stderr: npm
+20140120151032:taylorsavage.com:stderr:  
+20140120151032:taylorsavage.com:stderr: http
+20140120151032:taylorsavage.com:stderr:  
+20140120151032:taylorsavage.com:stderr: GET
+20140120151032:taylorsavage.com:stderr:  https://registry.npmjs.org/character-parser/-/character-parser-1.2.0.tgz
+20140120151032:taylorsavage.com:stderr: npm
+20140120151032:taylorsavage.com:stderr:  
+20140120151032:taylorsavage.com:stderr: http
+20140120151032:taylorsavage.com:stderr:  
+20140120151032:taylorsavage.com:stderr: GET
+20140120151032:taylorsavage.com:stderr:  https://registry.npmjs.org/monocle/-/monocle-1.1.51.tgz
+20140120151032:taylorsavage.com:stderr: npm
+20140120151032:taylorsavage.com:stderr:  
+20140120151032:taylorsavage.com:stderr: http
+20140120151032:taylorsavage.com:stderr:  
+20140120151032:taylorsavage.com:stderr: GET
+20140120151032:taylorsavage.com:stderr:  https://registry.npmjs.org/transformers/-/transformers-2.1.0.tgz
+20140120151033:taylorsavage.com:stderr: npm
+20140120151033:taylorsavage.com:stderr:  
+20140120151033:taylorsavage.com:stderr: http 200 https://registry.npmjs.org/constantinople/-/constantinople-1.0.2.tgz
+20140120151033:taylorsavage.com:stderr: npm http 
+20140120151033:taylorsavage.com:stderr: 200 https://registry.npmjs.org/commander/-/commander-2.1.0.tgz
+20140120151033:taylorsavage.com:stderr: npm http 200 https://registry.npmjs.org/with/-/with-2.0.0.tgz
+20140120151033:taylorsavage.com:stderr: npm http 200 https://registry.npmjs.org/character-parser/-/character-parser-1.2.0.tgz
+20140120151033:taylorsavage.com:stderr: npm
+20140120151033:taylorsavage.com:stderr:  http
+20140120151033:taylorsavage.com:stderr:  
+20140120151033:taylorsavage.com:stderr: 200
+20140120151033:taylorsavage.com:stderr:  https://registry.npmjs.org/transformers/-/transformers-2.1.0.tgz
+20140120151033:taylorsavage.com:stderr: npm
+20140120151033:taylorsavage.com:stderr:  
+20140120151033:taylorsavage.com:stderr: http
+20140120151033:taylorsavage.com:stderr:  200
+20140120151033:taylorsavage.com:stderr:  https://registry.npmjs.org/monocle/-/monocle-1.1.51.tgz
+20140120151033:taylorsavage.com:stderr: npm
+20140120151033:taylorsavage.com:stderr:  http GET https://registry.npmjs.org/mkdirp
+20140120151033:taylorsavage.com:stderr: npm
+20140120151033:taylorsavage.com:stderr:  
+20140120151033:taylorsavage.com:stderr: http 200 https://registry.npmjs.org/mkdirp
+20140120151053:taylorsavage.com:stderr: npm
+20140120151053:taylorsavage.com:stderr:  http GET
+20140120151053:taylorsavage.com:stderr:  https://registry.npmjs.org/readdirp
+20140120151053:taylorsavage.com:stderr: npm
+20140120151053:taylorsavage.com:stderr:  
+20140120151053:taylorsavage.com:stderr: http
+20140120151053:taylorsavage.com:stderr:  
+20140120151053:taylorsavage.com:stderr: GET
+20140120151053:taylorsavage.com:stderr:  https://registry.npmjs.org/uglify-js
+20140120151054:taylorsavage.com:stderr: npm
+20140120151054:taylorsavage.com:stderr:  http GET https://registry.npmjs.org/uglify-js/2.4.0
