@@ -2,12 +2,14 @@ var child_process = require('child_process');
 var config = require('./config.json');
 var fs = require('fs');
 var path = require('path');
+var sleep = require('sleep');
 
 var childProcesses = [];
 
 if (config.server) {
 	console.log("starting server");
 	childProcesses.push(child_process.fork(__dirname + "/../canvas-server/app"));
+	sleep.sleep(5);
 }
 
 for (var index in config.clients) {
