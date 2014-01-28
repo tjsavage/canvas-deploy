@@ -15,7 +15,8 @@ for (var index in config.clients) {
 		"script": "/home/pi/canvas/canvas-client/app.js",
 		"args": "['/home/pi/canvas/canvas-deploy/config/" + client.slug + ".config.json']",
 		"error_file": "/home/pi/canvas/logs/" + client.slug + ".err.log",
-		"out_file": "/home/pi/canvas/logs/" + client.slug + ".out.log"
+		"out_file": "/home/pi/canvas/logs/" + client.slug + ".out.log",
+		"user": "root"
 	});
 }
 
