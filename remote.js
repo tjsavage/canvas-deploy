@@ -33,7 +33,9 @@ task('deploy', 'Deploy a machine', function(controller) {
 		controller.ssh("cd /home/pi/canvas/canvas-client && git pull origin master && npm install", function() {
 			controller.ssh("cd /home/pi/canvas/canvas-server && git pull origin master && npm install", function() {
 				controller.scp("./config." + controller.hostname + ".json", "/home/pi/canvas/canvas-deploy/config.json", function() {
-					controller.ssh("/etc/init.d/nodejs.sh restart");
+					controller.ssh("node prepare.js", function() {
+						controller.ssh("sudo forever restartall");
+					});
 				});
 			});
 		});
