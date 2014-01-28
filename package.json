@@ -4,6 +4,7 @@
 	"private": true,
 	"dependencies": {
 		"control": "*",
-		"sleep": "*"
+		"sleep": "*",
+		"pm2": "*"
 	}
 }
