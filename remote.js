@@ -24,6 +24,10 @@ task('pablo', 'Config for pablo', function() {
 	return configure('pablo', 'taylorsavage.com', '2221');
 });
 
+task('claude', 'Config for claude', function() {
+	return configure('claude', 'taylorsavage.com', '2222');
+});
+
 task('pablo-eth', 'Config for pablo over ethernet', function() {
 	return configure('pablo', 'taylorsavage.com', '2220');
 });
@@ -33,7 +37,7 @@ task('deploy', 'Deploy a machine', function(controller) {
 		controller.ssh("cd /home/pi/canvas/canvas-client && git pull origin master && npm install", function() {
 			controller.ssh("cd /home/pi/canvas/canvas-server && git pull origin master && npm install", function() {
 				controller.scp("./config." + controller.hostname + ".json", "/home/pi/canvas/canvas-deploy/config.json", function() {
-					controller.ssh("node prepare.js", function() {
+					controller.ssh("node /home/pi/canvas/canvas-deploy/prepare.js", function() {
 						controller.ssh("sudo forever restartall");
 					});
 				});
