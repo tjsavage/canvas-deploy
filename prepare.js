@@ -12,7 +12,7 @@ for (var index in config.clients) {
 	
 	var pm2Object = {
 		"name": client.slug,
-		"script": client.script || "/home/pi/canvas/canvas-client/app.js",
+		"script": "/home/pi/canvas/canvas-client/app.js",
 		"args": "['/home/pi/canvas/canvas-deploy/config/" + client.slug + ".config.json']",
 		"error_file": "/home/pi/canvas/logs/" + client.slug + ".err.log",
 		"out_file": "/home/pi/canvas/logs/" + client.slug + ".out.log",
